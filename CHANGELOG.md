@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.7.0](https://github.com/nandorojo/zeego/compare/v1.0.0...v0.7.0) (2022-10-08)
+
+
+### Features
+
+* apply PR suggestions ([b16abab](https://github.com/nandorojo/zeego/commit/b16ababb989900d82ed10269a5121bc3a2365f94))
+* bump react-native-ios-context menu to 1.14.0 ([18a72fc](https://github.com/nandorojo/zeego/commit/18a72fc7d2bee5d2200a6ca7fc47587ab4a5f08f))
+* initial support for iosIconConfiguration ([b84033e](https://github.com/nandorojo/zeego/commit/b84033e00d4ea0a7ae5b9db26fc26451eef1ad84))
+
+
+
+
+
 # [0.6.0](https://github.com/nandorojo/zeego/compare/v0.5.0...v0.6.0) (2022-09-02)
 
 **Note:** Version bump only for package zeeg
